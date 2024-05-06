@@ -1,2 +1,2 @@
-# poo-uml
-Desafio da dio do Iphone com orientação a objeto 
+# Desafio DIO
+Orientação a objeto e UML
